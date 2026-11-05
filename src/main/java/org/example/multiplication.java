@@ -1,3 +1,5 @@
+package org.example;
+
 public class multiplication {
 
     public static int[] mul(int n) {
